@@ -1,0 +1,7 @@
+errorno_1 用户登陆消息无效(md5验证失败或者消息过期)
+errorno_2 用户渠道不支持
+errorno_3 用户不存在
+errorno_4 密码错误
+errorno_5 登陆tocken已失效
+errorno_6 login_required
+errorno_7 用户已被封禁

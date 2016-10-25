@@ -1,0 +1,9 @@
+这是个html5的游戏服务器端
+CREATE DATABASE `h5_default_passport` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+CREATE DATABASE `h5_oauth_write` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+CREATE DATABASE `h5_pay_passport` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+CREATE DATABASE `h5_common_passport` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+drop database h5_common_passport;
+drop database h5_pay_passport;
+drop database h5_oauth_write;
+drop database h5_default_passport;
